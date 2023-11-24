@@ -1,0 +1,43 @@
+{
+'hostnames': [{'name': 'www.codewars.com', 'type': 'user'}],
+'addresses': {'ipv4': '172.66.40.185'},
+'vendor': {},
+'status': {'state': 'up', 'reason': 'echo-reply'},
+'tcp': {
+	'80': {'state': 'open',
+		   'reason': 'syn-ack',
+		   'name': 'http',
+		   'product': 'Cloudflare http proxy',
+		   'version': '',
+		   'extrainfo': '',
+		   'conf': '10',
+		   'cpe': '',
+		   'script': {
+		   		'http-server-header': 'cloudflare',
+		   		'http-methods': '\n  Supported Methods: GET HEAD POST OPTIONS',
+		   		'http-title': 'Did not follow redirect to https://www.codewars.com/'
+		   		}
+		  }, 
+	'443': {'state': 'open',
+	 		'reason': 'syn-ack',
+	 		'name': 'http',
+	 		'product': 'Cloudflare http proxy',
+	 		'version': '',
+	 		'extrainfo': '',
+	 		'conf': '10',
+	 		'cpe': '', 
+	 		'script':{'ssl-cert': 'Subject: commonName=codewars.com/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US\nSubject Alternative Name: DNS:codewars.com,
+	 		DNS:*.codewars.com\nIssuer: commonName=Cloudflare Inc ECC CA-3/organizationName=Cloudflare, Inc./countryName=US\nPublic Key type: ec\nPublic Key bits: 256\nSignature Algorithm: ecdsa-with-SHA256\nNot valid before: 2023-05-04T00:00:00\nNot valid after:  2024-05-03T23:59:59\nMD5:   
+	 		5b83:80af:6541:d0f0:7746:99f5:2c91:fb8d\nSHA-1: fe40:8036:9988:32b1:bff8:7912:e5ad:929f:fec9:4ff3', 'http-server-header': 'cloudflare',
+	 		'http-title': '406 Not Acceptable', 
+	 		'http-robots.txt': '1 disallowed entry \n/cgi-bin/\\x0B', 
+	 		'http-methods': '\n  Supported Methods: GET HEAD POST OPTIONS',
+	 		'http-favicon': 'Unknown favicon MD5: BD5CC1C26BB4A86F24DE65464883065D'}
+	 		}
+	 		}, 
+	'portused': [ {'state': 'open', 
+				   'proto': 'tcp',
+				   'portid': '80'}
+				],
+	 'osmatch': []
+	 }

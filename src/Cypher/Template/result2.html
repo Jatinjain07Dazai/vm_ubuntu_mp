@@ -1,0 +1,36 @@
+{% extends 'base.html' %} 
+{% load static %}
+{% block content %}
+<script type="text/javascript" src="{% static 'reser.js' %}" defer></script>
+<section id="res">
+<div style="position: absolute; left:80vw ;">
+	<a href="../va">Next</a>
+</div>
+
+<div style="display:flex; ">
+<div style="display:block; margin: 5vw; margin-top:2vh">
+<h1 style="text-align:center; color: #222;"> Nmap Scan Results </h1>
+<div class="info-cont" style="background: #fff;">
+{% for k, v in nres.items %}
+	<div class="info-card">
+		<ul>
+			<h2 style="text-align:center; color: #222;"> {{ k }} </h2>
+			{% if k in lis %}
+				{% for i in v %}
+				{% for g, h in i.items%}
+				<li>{{g}} : {{h}} </li>
+				{% endfor %}
+				{% endfor %}
+			{% endif %}
+			{% for n, l in v.items %}
+				<li>{{ n }} : {{ l }}</li>
+			{% endfor %}
+		</ul>
+	</div>
+{% endfor %}
+</div>
+</div>
+</div>
+
+</section>
+{% endblock %}

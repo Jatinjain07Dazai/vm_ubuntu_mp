@@ -1,0 +1,101 @@
+{
+    "104.18.138.67": {
+        "hostnames": [
+            {
+                "name": "www.chess.com",
+                "type": "user"
+            }
+        ],
+        "addresses": {
+            "ipv4": "104.18.138.67"
+        },
+        "vendor": {},
+        "status": {
+            "state": "up",
+            "reason": "reset"
+        },
+        "tcp": {
+            "80": {
+                "state": "open",
+                "reason": "syn-ack",
+                "name": "http",
+                "product": "cloudflare",
+                "version": "",
+                "extrainfo": "",
+                "conf": "10",
+                "cpe": "",
+                "script": {
+                    "fingerprint-strings": "\n  FourOhFourRequest: \n    HTTP/1.1 400 Bad Request\n    Date: Fri, 24 Nov 2023 14:28:25 GMT\n    Content-Type: text/html\n    Content-Length: 155\n    Connection: close\n    Server: cloudflare\n    CF-RAY: 82b2569c39338575-BOM\n    <html>\n    <head><title>400 Bad Request</title></head>\n    <body>\n    <center><h1>400 Bad Request</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  GetRequest: \n    HTTP/1.1 400 Bad Request\n    Date: Fri, 24 Nov 2023 14:28:25 GMT\n    Content-Type: text/html\n    Content-Length: 155\n    Connection: close\n    Server: cloudflare\n    CF-RAY: 82b25698ebc61bca-BOM\n    <html>\n    <head><title>400 Bad Request</title></head>\n    <body>\n    <center><h1>400 Bad Request</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  HTTPOptions: \n    HTTP/1.1 400 Bad Request\n    Date: Fri, 24 Nov 2023 14:28:25 GMT\n    Content-Type: text/html\n    Content-Length: 155\n    Connection: close\n    Server: cloudflare\n    CF-RAY: 82b256994cfcf472-BOM\n    <html>\n    <head><title>400 Bad Request</title></head>\n    <body>\n    <center><h1>400 Bad Request</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  RPCCheck: \n    HTTP/1.1 400 Bad Request\n    Server: cloudflare\n    Date: Fri, 24 Nov 2023 14:28:30 GMT\n    Content-Type: text/html\n    Content-Length: 155\n    Connection: close\n    CF-RAY: -\n    <html>\n    <head><title>400 Bad Request</title></head>\n    <body>\n    <center><h1>400 Bad Request</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  RTSPRequest: \n    <html>\n    <head><title>400 Bad Request</title></head>\n    <body>\n    <center><h1>400 Bad Request</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  X11Probe: \n    HTTP/1.1 400 Bad Request\n    Server: cloudflare\n    Date: Fri, 24 Nov 2023 14:28:25 GMT\n    Content-Type: text/html\n    Content-Length: 155\n    Connection: close\n    CF-RAY: -\n    <html>\n    <head><title>400 Bad Request</title></head>\n    <body>\n    <center><h1>400 Bad Request</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>",
+                    "http-methods": "\n  Supported Methods: GET HEAD POST OPTIONS",
+                    "http-server-header": "cloudflare",
+                    "http-title": "Did not follow redirect to https://www.chess.com/"
+                }
+            },
+            "443": {
+                "state": "open",
+                "reason": "syn-ack",
+                "name": "https",
+                "product": "cloudflare",
+                "version": "",
+                "extrainfo": "",
+                "conf": "10",
+                "cpe": "",
+                "script": {
+                    "fingerprint-strings": "\n  FourOhFourRequest: \n    HTTP/1.1 403 Forbidden\n    Server: cloudflare\n    Date: Fri, 24 Nov 2023 14:28:31 GMT\n    Content-Type: text/html\n    Content-Length: 151\n    Connection: close\n    CF-RAY: 82b256c0afd20e1c-BOM\n    <html>\n    <head><title>403 Forbidden</title></head>\n    <body>\n    <center><h1>403 Forbidden</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  GetRequest: \n    HTTP/1.1 403 Forbidden\n    Server: cloudflare\n    Date: Fri, 24 Nov 2023 14:28:31 GMT\n    Content-Type: text/html\n    Content-Length: 151\n    Connection: close\n    CF-RAY: 82b256bf498c2dfd-BOM\n    <html>\n    <head><title>403 Forbidden</title></head>\n    <body>\n    <center><h1>403 Forbidden</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  HTTPOptions: \n    HTTP/1.1 403 Forbidden\n    Server: cloudflare\n    Date: Fri, 24 Nov 2023 14:28:31 GMT\n    Content-Type: text/html\n    Content-Length: 151\n    Connection: close\n    CF-RAY: 82b256bffb703228-BOM\n    <html>\n    <head><title>403 Forbidden</title></head>\n    <body>\n    <center><h1>403 Forbidden</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  RPCCheck: \n    HTTP/1.1 400 Bad Request\n    Server: cloudflare\n    Date: Fri, 24 Nov 2023 14:28:36 GMT\n    Content-Type: text/html\n    Content-Length: 155\n    Connection: close\n    CF-RAY: -\n    <html>\n    <head><title>400 Bad Request</title></head>\n    <body>\n    <center><h1>400 Bad Request</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  RTSPRequest: \n    <html>\n    <head><title>400 Bad Request</title></head>\n    <body>\n    <center><h1>400 Bad Request</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>\n  tor-versions: \n    HTTP/1.1 400 Bad Request\n    Server: cloudflare\n    Date: Fri, 24 Nov 2023 14:28:31 GMT\n    Content-Type: text/html\n    Content-Length: 155\n    Connection: close\n    CF-RAY: -\n    <html>\n    <head><title>400 Bad Request</title></head>\n    <body>\n    <center><h1>400 Bad Request</h1></center>\n    <hr><center>cloudflare</center>\n    </body>\n    </html>",
+                    "http-favicon": "Unknown favicon MD5: 129C3B9C9B2A582E2349BEC3361F4F9C",
+                    "http-methods": "\n  Supported Methods: GET HEAD POST OPTIONS",
+                    "http-robots.txt": "29 disallowed entries (15 shown)\n/_ /en/ /cdn-cgi/ /admin /developers /download/pgn /fb \n/home/ /logout /message /settings /switch /unsubscribe \n/webhook /callback/",
+                    "http-server-header": "cloudflare",
+                    "http-title": "Chess.com - Play Chess Online - Free Games",
+                    "ssl-cert": "Subject: commonName=www.chess.com/organizationName=Cloudflare, Inc./stateOrProvinceName=California/countryName=US\nSubject Alternative Name: DNS:www.chess.com\nIssuer: commonName=Cloudflare Inc ECC CA-3/organizationName=Cloudflare, Inc./countryName=US\nPublic Key type: ec\nPublic Key bits: 256\nSignature Algorithm: ecdsa-with-SHA256\nNot valid before: 2023-10-16T00:00:00\nNot valid after:  2024-10-14T23:59:59\nMD5:   4d68 9af0 54d1 9fba 7922 c93d 2afd 05ce\nSHA-1: 99eb 7d59 2b18 e6af 8fe3 3ac9 0f56 b549 44f2 8d40",
+                    "ssl-date": "2023-11-24T14:28:48+00:00; 0s from scanner time.",
+                    "tls-alpn": "\n  h2\n  http/1.1",
+                    "tls-nextprotoneg": "\n  h2\n  http/1.1"
+                }
+            }
+        },
+        "portused": [
+            {
+                "state": "open",
+                "proto": "tcp",
+                "portid": "80"
+            }
+        ],
+        "osmatch": [
+            {
+                "name": "Oracle Virtualbox",
+                "accuracy": "98",
+                "line": "91850",
+                "osclass": [
+                    {
+                        "type": "bridge",
+                        "vendor": "Oracle",
+                        "osfamily": "Virtualbox",
+                        "osgen": null,
+                        "accuracy": "98",
+                        "cpe": [
+                            "cpe:/o:oracle:virtualbox"
+                        ]
+                    }
+                ]
+            },
+            {
+                "name": "QEMU user mode network gateway",
+                "accuracy": "92",
+                "line": "93627",
+                "osclass": [
+                    {
+                        "type": "general purpose",
+                        "vendor": "QEMU",
+                        "osfamily": "QEMU",
+                        "osgen": null,
+                        "accuracy": "92",
+                        "cpe": [
+                            "cpe:/a:qemu:qemu"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

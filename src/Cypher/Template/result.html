@@ -1,0 +1,51 @@
+{% extends 'base.html' %} 
+{% load static %}
+{% block content %}
+<script type="text/javascript" src="{% static 'reser.js' %}" defer></script>
+<script type="text/javascript" src="{% static 'rever.js' %}" defer></script>
+
+<section id="res">
+<a href="/res2"> 
+<div id="network-page">
+Network Page
+</div>
+</a>
+
+
+<div class="wrap">
+   <div class="search">
+      <input type="text" class="searchTerm" placeholder="{{ url }}">
+      <button type="submit" class="searchButton">
+        SEARCH
+     </button>
+ </div>
+</div>
+
+
+<div style="display:flex; ">
+<div style="display:block; margin: 5vw; margin-top:2vh">
+<h1 style="text-align:center; color: #222;"> Tech Stack </h1>
+<div class="info-cont" style="background: #fff;">
+{% for k, v in data.items %}
+	<div class="info-card">
+	
+	 <h2>{{ k }}</h2>
+	 <ul>
+	 	{% for i in v %}
+	 	<details class="details-example">
+    	<summary>
+    		{{ i.0 }} 
+   	 </summary>
+   	 <div style="border: solid 2px #333; margin-left: 35px;"><p>{{ i.1 }}</p></div>
+ 		</details>
+	 	{% endfor %}
+	 </ul>
+	</div>
+{% endfor %}
+</div>
+</div>
+</div>
+
+
+</section>
+{% endblock %}

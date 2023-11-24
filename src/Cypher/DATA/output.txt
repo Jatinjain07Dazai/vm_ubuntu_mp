@@ -1,0 +1,58 @@
+
+   ______          __      _____ _____
+  / __ \ \        / /\    / ____|  __ \
+ | |  | \ \  /\  / /  \  | (___ | |__) |
+ | |  | |\ \/  \/ / /\ \  \___ \|  ___/
+ | |__| | \  /\  / ____ \ ____) | |     [1;31mVersion 0.3.2[0m
+  \____/   \/  \/_/    \_\_____/|_|     [1;33mTRENT[0m
+                          _   _      _   _             _
+                         | \ | |    | | | |           | |
+  [1;36mgithub.com/OWASP     [0m  |  \| | ___| |_| |_ __ _  ___| | _____ _ __
+  [1;36mowasp.org[0m              | . ` |/ _ \ __| __/ _` |/ __| |/ / _ \ '__|
+  [1;36mz3r0d4y.com[0m            | |\  |  __/ |_| || (_| | (__|   <  __/ |
+                         |_| \_|\___|\__|\__\__,_|\___|_|\_\___|_|
+
+
+
+
+[0m[1;33m[2023-11-24 14:29:34][+] [1;32mNettacker engine started ...[0m
+[0m[1;33m[2023-11-24 14:29:34][+] [1;32m88 modules loaded ...[0m
+[1;33m[2023-11-24 14:29:34][+] [1;32mregrouping targets based on hardware resources![0m
+[1;33m[2023-11-24 14:29:34][+] [1;32mRemoving old database record for selected targets and modules.[0m
+[1;33m[2023-11-24 14:29:34][+] [1;32mimported 1 targets in 1 process(es).[0m
+[1;31m[2023-11-24 14:29:35][+++] [1;36mprocess-1|port_scan|www.chess.com|module-thread 1/1|request-thread 29/1005|[1;33mhost:[0m [1;32mwww.chess.com[0m [1;33mmethod:[0m [1;32mtcp_connect_send_and_receive[0m [1;33mports:[0m [1;32m'80'[0m [1;33mtimeout:[0m [1;32m3.0[0m|
+success_condition (s): 
+conditions: [1;35mhttp:[0m [1;32m-[0m [1;35m'Server:[0m [1;32m'[0m [1;32m-[0m [1;32mHTTP/1.1[0m [1;32m400[0m [1;32m-[0m [1;35m'Content-Type:[0m... [see the full content in the report][0m
+[1;31m[2023-11-24 14:29:35][+++] [1;36mprocess-1|port_scan|www.chess.com|module-thread 1/1|request-thread 78/1005|[1;33mhost:[0m [1;32mwww.chess.com[0m [1;33mmethod:[0m [1;32mtcp_connect_send_and_receive[0m [1;33mports:[0m [1;32m'443'[0m [1;33mtimeout:[0m [1;32m3.0[0m|
+success_condition (s): 
+conditions: [1;35mhttp:[0m [1;32m-[0m [1;35m'Server:[0m [1;32m'[0m [1;32m-[0m [1;32mHTTP/1.1[0m [1;32m400[0m [1;32m-[0m [1;35m'Content-Type:[0m... [see the full content in the report][0m
+[1;31m[2023-11-24 14:29:56][+++] [1;36mprocess-1|port_scan|www.chess.com|module-thread 1/1|request-thread 731/1005|[1;33mhost:[0m [1;32mwww.chess.com[0m [1;33mmethod:[0m [1;32mtcp_connect_send_and_receive[0m [1;33mports:[0m [1;32m'8080'[0m [1;33mtimeout:[0m [1;32m3.0[0m|
+success_condition (s): 
+conditions: [1;35mhttp:[0m [1;32m-[0m [1;35m'Server:[0m [1;32m'[0m [1;32m-[0m [1;32mHTTP/1.1[0m [1;32m400[0m [1;32m-[0m [1;35m'Content-Type:[0m... [see the full content in the report][0m
+[1;33m[2023-11-24 14:30:08][+] [1;32mRemoving old database record for selected targets and modules.[0m
+[1;33m[2023-11-24 14:30:08][+] [1;32mimported 1 targets in 1 process(es).[0m
+[1;31m[2023-11-24 14:30:36][+++] [1;36mprocess-1|admin_scan|www.chess.com|module-thread 1/1|request-thread 1329/3516|[1;33mallow_redirects:[0m [1;32mfalse[0m [1;33mheaders:[0m [1;33mUser-Agent:[0m [1;32mNettacker[0m [1;32m0.3.2[0m [1;32mTRENT[0m [1;33mmethod:[0m [1;32mget[0m [1;33mssl:[0m [1;32mfalse[0m [1;33mtimeout:[0m [1;32m3.0[0m [1;33murl:[0m [1;33mhttps://www.chess.com:443/favicon.ico[0m|
+success_condition (s): 
+conditions: [1;35mstatus_code:[0m [1;32m-[0m [1;32m'200'[0m[0m
+[1;31m[2023-11-24 14:30:37][+++] [1;36mprocess-1|admin_scan|www.chess.com|module-thread 1/1|request-thread 1341/3516|[1;33mallow_redirects:[0m [1;32mfalse[0m [1;33mheaders:[0m [1;33mUser-Agent:[0m [1;32mNettacker[0m [1;32m0.3.2[0m [1;32mTRENT[0m [1;33mmethod:[0m [1;32mget[0m [1;33mssl:[0m [1;32mfalse[0m [1;33mtimeout:[0m [1;32m3.0[0m [1;33murl:[0m [1;33mhttps://www.chess.com:443/robots.txt[0m|
+success_condition (s): 
+conditions: [1;35mstatus_code:[0m [1;32m-[0m [1;32m'200'[0m[0m
+[1;33m[2023-11-24 14:31:20][+] [1;32mbuilding graph ...[0m
+[1;33m[2023-11-24 14:31:20][+] [1;32mfinish building graph![0m
++----------------------------+---------------+-------------+------+----------+
+|            date            |    target     | module_name | port |   logs   |
++============================+===============+=============+======+==========+
+| 2023-11-24 14:29:35.668534 | www.chess.com | port_scan   | 80   | Detected |
++----------------------------+---------------+-------------+------+----------+
+| 2023-11-24 14:29:35.663325 | www.chess.com | port_scan   | 443  | Detected |
++----------------------------+---------------+-------------+------+----------+
+| 2023-11-24 14:29:56.832099 | www.chess.com | port_scan   | 8080 | Detected |
++----------------------------+---------------+-------------+------+----------+
+| 2023-11-24 14:30:36.951247 | www.chess.com | admin_scan  | 443  | Detected |
++----------------------------+---------------+-------------+------+----------+
+| 2023-11-24 14:30:37.356568 | www.chess.com | admin_scan  | 443  | Detected |
++----------------------------+---------------+-------------+------+----------+
+
+Software Details: OWASP Nettacker version 0.3.2 [TRENT] in 2023-11-24 14:31:20
+[1;33m[2023-11-24 14:31:20][+] [1;32mreport saved in /home/vboxuser/Downloads/Major-Project/src/Cypher/Nettacker/.data/results/results_2023_11_24_14_29_25_llrgalpkgo.html and database[0m
+[1;33m[2023-11-24 14:31:20][+] [1;32mdone![0m

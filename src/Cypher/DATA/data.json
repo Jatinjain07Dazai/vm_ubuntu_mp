@@ -1,0 +1,982 @@
+{
+    "Analytics and Tracking": [
+        [
+            "Facebook Domain Insights",
+            "This website contains tracking information that allows admins to see Facebook Insights out of Facebook to this domain."
+        ],
+        [
+            "Google Analytics",
+            "Google Analytics offers a host of compelling features and benefits for everyone from senior executives and advertising and marketing professionals to site owners and content developers."
+        ],
+        [
+            "Google Universal Analytics",
+            "The analytics.js JavaScript snippet is a new way to measure how users interact with your website. It is similar to the previous Google tracking code, ga.js, but offers more flexibility for developers to customize their implementations."
+        ],
+        [
+            "Google Analytics 4",
+            "Google Analytics 4 formerly known as App + Web is a new version of Google Analytics that was released in October 2020."
+        ],
+        [
+            "Global Site Tag",
+            "Google's primary tag for Google Measurement/Conversion Tracking, Adwords and DoubleClick."
+        ]
+    ],
+    "Widgets": [
+        [
+            "Apple Whitelist",
+            "This website domain is on the Apple TLD whitelist which may potentially mean these domains will appear in autocomplete when looking up URLs on Apple products."
+        ],
+        [
+            "Videobot",
+            "Internet has shifted from being text-based to video-based, and Videobot offers personalized video funnels to engage audiences, capture leads, guide users, enhance customer satisfaction, and increase conversion rates."
+        ],
+        [
+            "Adobe Connect",
+            "Adobe Connect web conferencing software offers online meeting functionality, virtual classrooms and large scale webinars."
+        ],
+        [
+            "Cloudflare Bot Manager",
+            "Stop bad bots by using threat intelligence."
+        ],
+        [
+            "Slack",
+            "Messaging app for teams that makes working together simple and efficient."
+        ],
+        [
+            "Smart App Banner",
+            "Displays a banner that provides a direct link to an Apple Store app, or opens the app if the user already has it installed."
+        ],
+        [
+            "Google Tag Manager",
+            "Tag management that lets you add and update website tags without changes to underlying website code."
+        ],
+        [
+            "Twitter Embedded Tweets",
+            "Embedded Tweet feature allows websites to generate copy and paste-able HTML markup to render a Tweet on any third-party website."
+        ],
+        [
+            "COVID-19",
+            "This website mentions COVID-19 / Novel Coronavirus."
+        ],
+        [
+            "Brave Browser Rewards",
+            "Verified rewards site."
+        ],
+        [
+            "US Privacy User Signal Mechanism",
+            "The US Privacy API (USP API) is a lightweight API used to communicate signals represented in the US Privacy String."
+        ],
+        [
+            "CrUX Dataset",
+            "CrUX is a data collection system that gathers information about how real users interact with websites. This website is included in the user experiences data gathered from Google Chrome and thus considered sufficiently popular on the Internet."
+        ],
+        [
+            "CrUX Top 1000",
+            "Relative measure of site popularity within the CrUX dataset, measured by the total number of navigations on the origin. This site is in the top 1k."
+        ],
+        [
+            "Cookie Consent by Osano",
+            "Popular solution for the EU cookie law. Previously Insites Cookie Consent and Silktide Cookie Consent."
+        ],
+        [
+            "Global Privacy Control",
+            "This product helps you take control of your privacy by allowing you to globally opt out of data collection and data sharing."
+        ],
+        [
+            "Cloudflare Radar",
+            "The website appears on the Cloudflare Radar Top 1m sites list"
+        ],
+        [
+            "Cloudflare Radar Top 50k",
+            "The website appears in the Cloudflare Radar Top 50,000."
+        ]
+    ],
+    "Language": [
+        [
+            "French HREF LANG",
+            "This webpage has alternate versions available in French via the use of the hreflang tag."
+        ],
+        [
+            "Hindi HREF LANG",
+            "This webpage has alternate versions available in Hindi via the use of the hreflang tag."
+        ],
+        [
+            "Chinese HREF LANG",
+            "This webpage has alternate versions available in Chinese via the use of the hreflang tag."
+        ],
+        [
+            "English HREF LANG",
+            "This webpage has alternate versions available in English via the use of the hreflang tag."
+        ],
+        [
+            "Spanish HREF LANG",
+            "This webpage has alternate versions available in Spanish via the use of the hreflang tag."
+        ],
+        [
+            "German HREF LANG",
+            "This webpage has alternate versions available in German via the use of the hreflang tag."
+        ],
+        [
+            "Russian HREF LANG",
+            "This webpage has alternate versions available in Russian via the use of the hreflang tag."
+        ],
+        [
+            "Japanese HREF LANG",
+            "This webpage has alternate versions available in Japanese via the use of the hreflang tag."
+        ],
+        [
+            "Korean HREF LANG",
+            "This webpage has alternate versions available in Korean via the use of the hreflang tag."
+        ],
+        [
+            "Arabic HREF LANG",
+            "This webpage has alternate versions available in Arabic via the use of the hreflang tag."
+        ],
+        [
+            "Afrikaans HREF LANG",
+            "This webpage has alternate versions available in Afrikaans via the use of the hreflang tag."
+        ],
+        [
+            "Azerbaijani HREF LANG",
+            "This webpage has alternate versions available in Azerbaijani via the use of the hreflang tag."
+        ],
+        [
+            "Bulgarian HREF LANG",
+            "This webpage has alternate versions available in Bulgarian via the use of the hreflang tag."
+        ],
+        [
+            "Bengali HREF LANG",
+            "This webpage has alternate versions available in Bengali via the use of the hreflang tag."
+        ],
+        [
+            "Bosnian HREF LANG",
+            "This webpage has alternate versions available in Bosnian via the use of the hreflang tag."
+        ],
+        [
+            "Catalan HREF LANG",
+            "This webpage has alternate versions available in Catalan via the use of the hreflang tag."
+        ],
+        [
+            "Czech HREF LANG",
+            "This webpage has alternate versions available in Czech via the use of the hreflang tag."
+        ],
+        [
+            "Danish HREF LANG",
+            "This webpage has alternate versions available in Danish via the use of the hreflang tag."
+        ],
+        [
+            "Greek HREF LANG",
+            "This webpage has alternate versions available in Greek via the use of the hreflang tag."
+        ],
+        [
+            "Estonian HREF LANG",
+            "This webpage has alternate versions available in Estonian via the use of the hreflang tag."
+        ],
+        [
+            "Persian HREF LANG",
+            "This webpage has alternate versions available in Persian via the use of the hreflang tag."
+        ],
+        [
+            "Finnish HREF LANG",
+            "This webpage has alternate versions available in Finnish via the use of the hreflang tag."
+        ],
+        [
+            "Galician HREF LANG",
+            "This webpage has alternate versions available in Galician via the use of the hreflang tag."
+        ],
+        [
+            "Hebrew HREF LANG",
+            "This webpage has alternate versions available in Hebrew via the use of the hreflang tag."
+        ],
+        [
+            "Croatian HREF LANG",
+            "This webpage has alternate versions available in Croatian via the use of the hreflang tag."
+        ],
+        [
+            "Hungarian HREF LANG",
+            "This webpage has alternate versions available in Hungarian via the use of the hreflang tag."
+        ],
+        [
+            "Armenian HREF LANG",
+            "This webpage has alternate versions available in Armenian via the use of the hreflang tag."
+        ],
+        [
+            "Indonesian HREF LANG",
+            "This webpage has alternate versions available in Indonesian via the use of the hreflang tag."
+        ],
+        [
+            "Icelandic HREF LANG",
+            "This webpage has alternate versions available in Icelandic via the use of the hreflang tag."
+        ],
+        [
+            "Italian HREF LANG",
+            "This webpage has alternate versions available in Italian via the use of the hreflang tag."
+        ],
+        [
+            "Georgian HREF LANG",
+            "This webpage has alternate versions available in Georgian via the use of the hreflang tag."
+        ],
+        [
+            "Lithuanian HREF LANG",
+            "This webpage has alternate versions available in Lithuanian via the use of the hreflang tag."
+        ],
+        [
+            "Latvian HREF LANG",
+            "This webpage has alternate versions available in Latvian via the use of the hreflang tag."
+        ],
+        [
+            "Malaysian HREF LANG",
+            "This webpage has alternate versions available in Malaysian via the use of the hreflang tag."
+        ],
+        [
+            "Dutch HREF LANG",
+            "This webpage has alternate versions available in Dutch via the use of the hreflang tag."
+        ],
+        [
+            "Norwegian Bokm\u00e5l HREF LANG",
+            "This webpage has alternate versions available in Norwegian Bokm\u00e5l via the use of the hreflang tag."
+        ],
+        [
+            "Polish HREF LANG",
+            "This webpage has alternate versions available in Polish via the use of the hreflang tag."
+        ],
+        [
+            "Portuguese HREF LANG",
+            "This webpage has alternate versions available in Portuguese via the use of the hreflang tag."
+        ],
+        [
+            "Brazilian Portuguese HREF LANG",
+            "This webpage has alternate versions available in Brazilian Portuguese via the use of the hreflang tag."
+        ],
+        [
+            "Romanian HREF LANG",
+            "This webpage has alternate versions available in Romanian via the use of the hreflang tag."
+        ],
+        [
+            "Slovak HREF LANG",
+            "This webpage has alternate versions available in Slovak via the use of the hreflang tag."
+        ],
+        [
+            "Slovenian HREF LANG",
+            "This webpage has alternate versions available in Slovenian via the use of the hreflang tag."
+        ],
+        [
+            "Albanian HREF LANG",
+            "This webpage has alternate versions available in Albanian via the use of the hreflang tag."
+        ],
+        [
+            "Serbian HREF LANG",
+            "This webpage has alternate versions available in Serbian via the use of the hreflang tag."
+        ],
+        [
+            "Swedish HREF LANG",
+            "This webpage has alternate versions available in Swedish via the use of the hreflang tag."
+        ],
+        [
+            "Turkish HREF LANG",
+            "This webpage has alternate versions available in Turkish via the use of the hreflang tag."
+        ],
+        [
+            "Ukrainian HREF LANG",
+            "This webpage has alternate versions available in Ukrainian via the use of the hreflang tag."
+        ],
+        [
+            "Vietnamese HREF LANG",
+            "This webpage has alternate versions available in Vietnamese via the use of the hreflang tag."
+        ],
+        [
+            "Hong Kong Chinese HREF LANG",
+            "This webpage has alternate versions available in Hong Kong Chinese via the use of the hreflang tag."
+        ],
+        [
+            "Taiwan Chinese HREF LANG",
+            "This webpage has alternate versions available in Taiwan Chinese via the use of the hreflang tag."
+        ],
+        [
+            "Urdu HREF LANG",
+            "This webpage has alternate versions available in Urdu via the use of the hreflang tag."
+        ]
+    ],
+    "Frameworks": [
+        [
+            "Organization Schema",
+            "Organization i.e. school, NGO, Corporation."
+        ]
+    ],
+    "Content Delivery Network": [
+        [
+            "Content Delivery Network",
+            "This page contains links that give the impression that some of the site contents are stored on a content delivery network."
+        ]
+    ],
+    "Mobile": [
+        [
+            "Apple Mobile Web Clips Icon",
+            "This page contains an icon for iPhone, iPad and iTouch devices."
+        ],
+        [
+            "Viewport Meta",
+            "This page uses the viewport meta tag which means the content may be optimized for mobile content."
+        ],
+        [
+            "IPhone / Mobile Compatible",
+            "The website contains code that allows the page to support IPhone / Mobile Content."
+        ]
+    ],
+    "Payment": [
+        [
+            "Euro",
+            "The website uses the \u20ac symbol on its website - meaning it may accept payment in Euros."
+        ],
+        [
+            "Pound Sterling",
+            "The website uses the \u00a3 symbol on its website - meaning it may accept payment in this British currency."
+        ],
+        [
+            "Adyen",
+            "Adyen is a leading provider of omni-channel payment solutions with over 250 payment methods and 187 transaction currencies."
+        ],
+        [
+            "PayPal",
+            "The website accepts payments with PayPal."
+        ],
+        [
+            "Visa",
+            "The website accepts payments with Visa."
+        ]
+    ],
+    "Audio / Video Media": [
+        [
+            "YouTube",
+            "Embedded videos from YouTube."
+        ]
+    ],
+    "JavaScript Libraries and Functions": [
+        [
+            "Sentry",
+            "JavaScript bug tracking software through Sentry's javascript client Raven."
+        ],
+        [
+            "Twitter Platform",
+            "The page embeds the Twitter platform in one method or another."
+        ],
+        [
+            "Facebook for Websites",
+            "Allows a user to make a website more sociable and connected with integrations from the hugely popular Facebook website."
+        ],
+        [
+            "jQuery",
+            "JQuery is a fast, concise, JavaScript Library that simplifies how you traverse HTML documents, handle events, perform animations, and add Ajax interactions to your web pages. jQuery is designed to change the way that you write JavaScript."
+        ],
+        [
+            "Vue",
+            "vue.js a JavaScript MVVM framework."
+        ],
+        [
+            "vuex",
+            "State management for Vue.js"
+        ],
+        [
+            "core-js",
+            "Modular standard library for JavaScript."
+        ],
+        [
+            "Webpack",
+            "webpack takes modules with dependencies and generates static assets representing those modules."
+        ],
+        [
+            "Intersection Observer",
+            "API that can be used to understand the visibility and position of DOM elements relative to a containing element or to the top-level viewport."
+        ]
+    ],
+    "Advertising": [
+        [
+            "DoubleClick.Net",
+            "DoubleClick enables agencies, marketers and publishers to work together successfully and profit from their digital marketing investments."
+        ],
+        [
+            "Ads.txt",
+            "A public record of Authorized Digital Sellers for a website."
+        ],
+        [
+            "OpenX Direct",
+            "Website is a direct publisher for OpenX ad content."
+        ],
+        [
+            "Google Direct",
+            "Website is a direct publisher for Google ad content."
+        ],
+        [
+            "ContextWeb Direct",
+            "Website is a direct publisher for ContextWeb ad content."
+        ],
+        [
+            "Amazon Direct",
+            "Website is a direct publisher for Amazon ad content."
+        ],
+        [
+            "PubMatic Reseller",
+            "The website owner has authorized another entity to control PubMatic ads on this site."
+        ],
+        [
+            "OpenX Reseller",
+            "The website owner has authorized another entity to control OpenX ads on this site."
+        ],
+        [
+            "RubiconProject Reseller",
+            "The website owner has authorized another entity to control RubiconProject ads on this site."
+        ],
+        [
+            "AppNexus Reseller",
+            "The website owner has authorized another entity to control AppNexus ads on this site."
+        ],
+        [
+            "AOL Reseller",
+            "The website owner has authorized another entity to control AOL ads on this site."
+        ],
+        [
+            "DistrictM Reseller",
+            "The website owner has authorized another entity to control DistictM ads on this site."
+        ],
+        [
+            "RhythmOne Reseller",
+            "The website owner has authorized another entity to control RhythmOne ads on this site."
+        ],
+        [
+            "AOL Direct",
+            "Website is a direct publisher for AOL ad content."
+        ],
+        [
+            "IndexExchange Reseller",
+            "The website owner has authorized another entity to control IndexExchange ads on this site."
+        ],
+        [
+            "Converstand Media Direct",
+            "Website is a direct publisher for Converstand Media ad content."
+        ],
+        [
+            "AppNexus Direct",
+            "Website is a direct publisher for AppNexus ad content."
+        ],
+        [
+            "Sonobi Direct",
+            "Website is a direct publisher for Sonobi ad content."
+        ],
+        [
+            "ContextWeb Reseller",
+            "The website owner has authorized another entity to control ContextWeb ads on this site."
+        ],
+        [
+            "IndexExchange Direct",
+            "Website is a direct publisher for IndexExchange ad content."
+        ],
+        [
+            "RhythmOne Direct",
+            "Website is a direct publisher for RhythmOne ad content."
+        ],
+        [
+            "RubiconProject Direct",
+            "Website is a direct publisher for RubiconProject ad content."
+        ],
+        [
+            "Improve Digital Reseller",
+            "The website owner has authorized another entity to control Improve Digital ads on this site."
+        ],
+        [
+            "SmartAdServer Reseller",
+            "The website owner has authorized another entity to control SmartAdServer ads on this site."
+        ],
+        [
+            "Triple Lift Direct",
+            "Website is a direct publisher for Triple Lift ad content."
+        ],
+        [
+            "33 Across Direct",
+            "Website is a direct publisher for 33 Across ad content."
+        ],
+        [
+            "ORC International Reseller",
+            "The website owner has authorized another entity to control ORC International ads on this site."
+        ],
+        [
+            "GumGum Reseller",
+            "The website owner has authorized another entity to control GumGum ads on this site."
+        ],
+        [
+            "Google Reseller",
+            "The website owner has authorized another entity to control Google ads on this site."
+        ],
+        [
+            "LKQD Reseller",
+            "The website owner has authorized another entity to control LKQD ads on this site."
+        ],
+        [
+            "SmartAdServer Direct",
+            "Website is a direct publisher for SmartAdServer ad content."
+        ],
+        [
+            "Improve Digital Direct",
+            "Website is a direct publisher for Improve Digital ad content."
+        ],
+        [
+            "LKQD Direct",
+            "Website is a direct publisher for LKQD ad content."
+        ],
+        [
+            "SpotXChange Direct",
+            "Website is a direct publisher for SpotXChange ad content."
+        ],
+        [
+            "Tremor Video Reseller",
+            "The website owner has authorized another entity to control Tremor Video ads on this site."
+        ],
+        [
+            "Telaria Reseller",
+            "Telaria Reseller Ads."
+        ],
+        [
+            "PubMatic Direct",
+            "Website is a direct publisher for PubMatic ad content."
+        ],
+        [
+            "Beachfront Reseller",
+            "The website owner has authorized another entity to control Beachfront ads on this site."
+        ],
+        [
+            "SpotXChange Reseller",
+            "The website owner has authorized another entity to control SpotXChange ads on this site."
+        ],
+        [
+            "LoopMe Reseller",
+            "The website owner has authorized another entity to control LoopMe ads on this site."
+        ],
+        [
+            "FreeWheel Reseller",
+            "The website owner has authorized another entity to control FreeWheel ads on this site."
+        ],
+        [
+            "The MediaGrid Direct",
+            "Supply curation and management tools for programmatic media buyers and sellers. Website is a direct publisher for The MediaGrid content."
+        ],
+        [
+            "Adform Reseller",
+            "The website owner has authorized another entity to control Adform ads on this site."
+        ],
+        [
+            "GumGum Direct",
+            "Website is a direct publisher for GumGum ad content."
+        ],
+        [
+            "Criteo Direct",
+            "Website is a direct publisher for Criteo ad content."
+        ],
+        [
+            "Infolinks Direct",
+            "Website is a direct publisher for Infolinks ad content"
+        ],
+        [
+            "adtelligent Reseller",
+            "Website is a reseller publisher for adtelligent ad content"
+        ],
+        [
+            "33 Across Reseller",
+            "The website owner has authorized another entity to control 33 Across ads on this site."
+        ],
+        [
+            "ucfunnel Reseller",
+            "ucfunnel reseller ads."
+        ],
+        [
+            "Sonobi Reseller",
+            "The website owner has authorized another entity to control Sonobi ads on this site."
+        ],
+        [
+            "Beachfront Direct",
+            "Website is a direct publisher for Beachfront ad content."
+        ],
+        [
+            "ORC International Direct",
+            "Website is a direct publisher for ORC International ad content."
+        ],
+        [
+            "Media.net Direct",
+            "Website is a direct publisher for Media.net ad content"
+        ],
+        [
+            "ShareThrough Direct",
+            "Website is a direct publisher for ShareThrough ad content."
+        ],
+        [
+            "Smartclip Direct",
+            "Website is a direct publisher for Smartclip ad content"
+        ],
+        [
+            "Tremor Video Direct",
+            "Website is a direct publisher for Tremor Video ad content."
+        ],
+        [
+            "Yahoo Direct",
+            "Website is a direct publisher for Yahoo ad content."
+        ],
+        [
+            "Bidtellect Reseller",
+            "Website is a reseller publisher for Bidtellect ad content"
+        ],
+        [
+            "Synacor Reseller",
+            "The website owner has authorized another entity to control Synacor ads on this site."
+        ],
+        [
+            "Yahoo Reseller",
+            "The website owner has authorized another entity to control Yahoo ads on this site."
+        ],
+        [
+            "Converstand Media Reseller",
+            "The website owner has authorized another entity to control Converstand Media ads on this site."
+        ],
+        [
+            "OneTag Reseller",
+            "Website is a reseller publisher for OneTag ad content"
+        ],
+        [
+            "Outbrain Reseller",
+            "The website owner has authorized another entity to control Outbrain ads on this site."
+        ],
+        [
+            "AdMan Direct",
+            "Website is a direct publisher for AdMan ad content"
+        ],
+        [
+            "Smaato Direct",
+            "Website is a direct publisher for Smaato ad content."
+        ],
+        [
+            "AdYouLike Reseller",
+            "The website owner has authorized another entity to control AdYouLike ads on this site."
+        ],
+        [
+            "fluct Direct",
+            "Website is a direct publisher for fluct ad content"
+        ],
+        [
+            "Admixer Reseller",
+            "Website is a reseller publisher for Admixer ad content"
+        ],
+        [
+            "Lijit Reseller",
+            "The website owner has authorized another entity to control Lijit ads on this site."
+        ],
+        [
+            "Amazon Reseller",
+            "The website owner has authorized another entity to control Amazon ads on this site."
+        ],
+        [
+            "Smaato Reseller",
+            "The website owner has authorized another entity to control Smaato ads on this site."
+        ],
+        [
+            "Media.net Reseller",
+            "Website is a reseller publisher for Media.net ad content"
+        ],
+        [
+            "E-Planning Direct",
+            "Website is a direct publisher for E-Planning ad content"
+        ],
+        [
+            "AdMan Reseller",
+            "Website is a reseller publisher for AdMan ad content"
+        ],
+        [
+            "ShareThrough Reseller",
+            "The website owner has authorized another entity to control ShareThrough ads on this site."
+        ],
+        [
+            "Undertone Reseller",
+            "Website is a reseller publisher for Undertone ad content"
+        ],
+        [
+            "Nativo Direct",
+            "Website is a direct publisher for Nativo ad content."
+        ],
+        [
+            "OneTag Direct",
+            "Website is a direct publisher for OneTag ad content"
+        ],
+        [
+            "Facebook Direct",
+            "Website is a direct publisher for Facebook ad content."
+        ],
+        [
+            "Between Digital Reseller",
+            "Website is a reseller publisher for Between Digital ad content"
+        ],
+        [
+            "Gamma SSP Reseller",
+            "Website is a reseller publisher for Gamma SSP ad content"
+        ],
+        [
+            "Smartclip Reseller",
+            "Website is a reseller publisher for Smartclip ad content"
+        ],
+        [
+            "Smartstream Reseller",
+            "Website is a reseller publisher for Smartstream ad content"
+        ],
+        [
+            "Sovrn Reseller",
+            "The website owner has authorized another entity to control Sovrn ads on this site."
+        ],
+        [
+            "Stroeer Reseller",
+            "The website owner has authorized another entity to control Stroeer ads on this site."
+        ],
+        [
+            "Yieldlab Reseller",
+            "Website is a reseller publisher for Yieldlab ad content"
+        ],
+        [
+            "App-Ads.txt",
+            "The app-ads.txt meets the requirements for ads distributed through mobile app stores, connected television app stores, or other application distribution channels."
+        ],
+        [
+            "Genesis Media Reseller",
+            "Reseller ads from Genesis - previously Altitude Digital."
+        ],
+        [
+            "The MediaGrid Reseller",
+            "Supply curation and management tools for programmatic media buyers and sellers."
+        ],
+        [
+            "E-Planning Reseller",
+            "Website is a reseller publisher for E-Planning ad content"
+        ],
+        [
+            "Triple Lift Reseller",
+            "The website owner has authorized another entity to control Triple Lift ads on this site."
+        ],
+        [
+            "Yieldmo Reseller",
+            "The website owner has authorized another entity to control Yieldmo ads on this site."
+        ],
+        [
+            "Criteo Reseller",
+            "The website owner has authorized another entity to control Criteo ads on this site."
+        ],
+        [
+            "Fyber Direct",
+            "Website is a direct publisher for Fyber ad content."
+        ],
+        [
+            "GroundTruth Reseller",
+            "Website is a reseller publisher for GroundTruth ad content"
+        ],
+        [
+            "Mars Media Group Reseller",
+            "Website is a reseller publisher for Mars Media Group ad content"
+        ],
+        [
+            "Mobfox Reseller",
+            "Website is a reseller publisher for Mobfox ad content"
+        ],
+        [
+            "SmartyAds Reseller",
+            "Website is a reseller publisher for SmartyAds ad content"
+        ],
+        [
+            "Tappx Reseller",
+            "Website is a reseller publisher for Tappx ad content"
+        ],
+        [
+            "Viralize Direct",
+            "Website is a direct publisher for Viralize ad content"
+        ],
+        [
+            "Revcontent Reseller",
+            "Website is a reseller publisher for Revcontent ad content"
+        ],
+        [
+            "Between Digital Direct",
+            "Website is a direct publisher for Between Digital ad content"
+        ],
+        [
+            "fluct Reseller",
+            "Website is a reseller publisher for fluct ad content"
+        ],
+        [
+            "vidoomy Reseller",
+            "Website is a reseller publisher for vidoomy ad content"
+        ],
+        [
+            "Aniview Reseller",
+            "Website is a reseller publisher for Aniview ad content"
+        ],
+        [
+            "Brightcom Reseller",
+            "The website owner has authorized another entity to control Brightcom ads on this site."
+        ],
+        [
+            "Consumable Reseller",
+            "Website is a reseller publisher for Consumable ad content"
+        ],
+        [
+            "MGID Reseller",
+            "Website is a reseller publisher for MGID ad content"
+        ],
+        [
+            "Rich Audience Reseller",
+            "Website is a reseller publisher for Rich Audience ad content"
+        ],
+        [
+            "TargetSpot Reseller",
+            "Website is a reseller publisher for TargetSpot ad content"
+        ],
+        [
+            "Teads Reseller",
+            "The website owner has authorized another entity to control Teads ads on this site."
+        ],
+        [
+            "Brave Reseller",
+            "Website is a reseller publisher for Brave ad content"
+        ],
+        [
+            "Triton Digital Reseller",
+            "Website is a reseller publisher for Triton Digital ad content"
+        ],
+        [
+            "Vidazoo Direct",
+            "Website is a direct publisher for Vidazoo ad content"
+        ],
+        [
+            "Adpone",
+            "Adpone is a tool which enables users to easily create and manage online advertising campaigns."
+        ],
+        [
+            "Nativery",
+            "Native advertising program from Italy."
+        ],
+        [
+            "RockerBox",
+            "Recent user behaviour ad system."
+        ],
+        [
+            "Chocolate Reseller",
+            "Chocolate Reseller ads"
+        ],
+        [
+            "Xapads Reseller",
+            "Website is a reseller publisher for Xapads ad content"
+        ]
+    ],
+    "Verified Link": [
+        [
+            "Facebook",
+            "The website mentions facebook.com in some form."
+        ],
+        [
+            "Twitter",
+            "The website mentions twitter.com in some form."
+        ],
+        [
+            "TikTok",
+            "The website mentions tiktok.com (but not Douyin) in some form."
+        ],
+        [
+            "Instagram",
+            "The website mentions Instagram in some form."
+        ],
+        [
+            "LinkedIn",
+            "The website mentions linkedin.com in some form."
+        ],
+        [
+            "API Developer",
+            "This website contains a link to an API or Developer page."
+        ]
+    ],
+    "Name Server": [
+        [
+            "3 to 9 ccTLD Redirects",
+            "The domain has had between 3 and 9 redirects from other ccTLDs within the same root domain name."
+        ],
+        [
+            "Amazon Route 53",
+            "Amazon's scalable DNS web service system."
+        ]
+    ],
+    "Email Hosting Providers": [
+        [
+            "Help Scout",
+            "Scalable customer support software."
+        ],
+        [
+            "SPF",
+            "The Sender Policy Framework is an open standard specifying a technical method to prevent sender address forgery."
+        ],
+        [
+            "DMARC",
+            "A technical specification created by a group of organizations that want to help reduce the potential for email-based abuse"
+        ],
+        [
+            "Google Apps for Business",
+            "Web-based email, calendar, and documents for teams. Renamed to Google Apps for Work, but now known as G Suite from Google Cloud."
+        ]
+    ],
+    "SSL Certificates": [
+        [
+            "SSL by Default",
+            "The website redirects traffic to an HTTPS/SSL version by default."
+        ],
+        [
+            "Cloudflare SSL",
+            "SSL solutions from Cloudflare"
+        ],
+        [
+            "HSTS",
+            "Forces browsers to only communicate with the site using HTTPS."
+        ],
+        [
+            "HSTS IncludeSubdomains PreLoad",
+            "This website includes instructions for HSTS loading that would allow it to be submitted to the HSTS preload list."
+        ]
+    ],
+    "Web Hosting Providers": [
+        [
+            "Cloudflare Hosting",
+            "Supercharged web hosting service."
+        ],
+        [
+            "Google",
+            "Site hosted on Google infrastructure."
+        ],
+        [
+            "Google Cloud",
+            "Website hosted on Google Cloud Platform - includes Google Compute Engine."
+        ],
+        [
+            "Google Cloud Global Multi-Region",
+            "Google Cloud IPs tagged as 'Global' by Google."
+        ]
+    ],
+    "Verified CDN": [
+        [
+            "Cloudflare CDN",
+            "Content owned by this site hosted on the Cloudflare CDN."
+        ]
+    ],
+    "Web Master Registration": [
+        [
+            "Google Webmaster",
+            "Webmaster tools provide you with a free and easy way to make your site more Google-friendly."
+        ],
+        [
+            "Yandex Verification",
+            "Yandex website verification."
+        ]
+    ],
+    "Copyright": [
+        [
+            "Copyright Infringement",
+            "The site has had more than 10 successful copyright takedown requests since 2011."
+        ]
+    ]
+}

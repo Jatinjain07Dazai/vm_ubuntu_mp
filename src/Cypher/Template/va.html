@@ -1,0 +1,51 @@
+{% extends 'base.html' %} 
+{% load static %}
+{% block content %}
+<script type="text/javascript" src="{% static 'reser.js' %}" defer></script>
+<section id="res">
+
+{% load bootstrap5 %}
+{% bootstrap_css %}
+{% bootstrap_javascript %}
+<div style="display:flex; ">
+<div style="display:block; margin: 5vw; margin-top:2vh">
+
+<a href="/scanpad"> 
+<div id="network-page" style="display:block;">
+Network Page
+</div>
+</a>
+<h1 style="text-align:center; color: #222;"> Past Vulnerability Observed  </h1>
+<div class="info-cont" style="background: #fff;">
+<div  style="width:90vw; height: 90vh; overflow:scroll; border: solid; border-width: 5px; border-color: yellow;">
+  <table class="col" style="overflow-x: scroll;" >  
+  	<thead>
+          <tr>
+            <th scope="col" class="bg-info text-white border border-3 border-white text-center ">S. NO.</th>
+            <th scope="col" class="bg-info text-white border border-3 border-white text-center">CODE</th>
+            <th scope="col" class="bg-info text-white border border-3 border-white text-center">Description</th>
+            <th scope="col" class="bg-info text-white border border-3 border-white text-center">Date</th>
+            <th scope="col" class="bg-info text-white border border-3 border-white text-center">Severity_3</th>
+            <th scope="col" class="bg-info text-white border border-3 border-white text-center">Severity_2</th>
+            <th scope="col" class="bg-info text-white border border-3 border-white text-center">URL</th>
+          </tr>
+        </thead>
+        <tbody>
+          {% for i in v %}
+          <tr style="height:20px; overflow:hidden;">
+            <td class="text-center bg-secondary border border-3 " >{{ forloop.counter }}</td>
+            {% for k, val in i.items %}
+            <td class="text-center bg-secondary border border-3 ">{{ val }}</td>
+            {% endfor %}
+          </tr>
+          {% endfor %}
+                      
+        </tbody>
+  </table>
+</div>
+</div>
+</div>
+</div>
+
+</section>
+{% endblock %}

@@ -1,0 +1,38 @@
+{% load static %}
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="{% static 'vuls.css' %}">
+  <script type="text/javascript" src="{% static 'back.js' %}" defer></script>
+</head>
+<body>
+<div id="contain">
+  <h3 id="upt">Spector Pad</h3>
+  <div id="screen"> 
+    {{ greetings }}
+    <br/>
+    Target :{{ target }}
+    <p hidden>{{ target }}</p>
+    {% for i in output %}
+      {{ i }} <br />
+    {% endfor %}
+  </div>
+  <div id="pad">
+    <div class="paddy">
+      <div style="margin:40px; padding:5px;"><button class="pushable opt"><span class="front">subdomain_scan</span></button></div>
+      <div style="margin:40px; padding:5px;"><button class="pushable opt"><span class="front">admin_scan</span></button></div>
+      <div style="margin:40px; padding:5px;"><button class="pushable opt"><span class="front">drupal_module_scan</span></button></div>
+      <div style="margin:40px; padding:5px;"><button class="pushable opt"><span class="front">icmp_scan</span></button></div>
+      <div style="margin:40px; padding:5px;"><button class="pushable opt"><span class="front">drupal_version_scan</span></button></div>
+      <div style="margin:40px; padding:5px;"><button class="pushable opt"><span class="front">pma_scan</span></button></div>
+       <div style="margin:40px; padding:5px;"><button class="pushable opt"><span class="front">moveit_version_scan</span></button></div>
+      <div style="margin:40px; padding:5px;"><button class="pushable  opt"><span class="front">wordpress_version_scan</span></button></div>
+      <div style="margin:40px; padding:5px;"><button class="pushable  opt"><span class="front">port_scan</span></button></div>  
+    </div>
+    <form method="get" action=. style="display: flex; justify-content: center;">
+    <input type="text" name="query" hidden>
+    <div style="margin:40px; padding:5px;"><button class="pushable" id="submer" style="background-color: green;"><span class="front" style="background-color: greenyellow;">Submit</span> <input id="submission" type="submit" hidden ></button></div>
+    </form>
+  </div>
+<div>
+</body>
+ </html>
